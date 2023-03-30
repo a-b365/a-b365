@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-b365
-- 👀 I’m interested in Web Development and Deep Learning
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Deep Learning  
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on ML Projects 
 - 📫 Reach me at Facebook(Amir Bhattarai) and Instagram(absword10)
 
 <!---
