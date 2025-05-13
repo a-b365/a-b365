@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-b365
-- 👀 I’m interested in Artificial Intelligence and Data Engineering
-- 🌱 I’m currently involved in a NLP Project
-- 💞️ I’m looking to collaborate on ML Projects 
+- 👀 My areas of interests are Computer Vision and Generative AI
+- 🌱 I’m currently involved in a Medical Image Analysis
+- 💞️ I’m looking to collaborate on Deep Learning Research
 - 📫 Reach me at Facebook(Amir Bhattarai) and Instagram(__abstrato__)
 
 <!---
