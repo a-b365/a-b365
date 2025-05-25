@@ -1,6 +1,6 @@
 <!-- Typing Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Gen+AI;Exploring+Medical+Image+Analysis+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Generative+AI;Exploring+Medical+Image+Analysis+🧠" alt="Typing SVG" />
 </p>
 
 <!-- Wave SVG Background -->
@@ -37,15 +37,15 @@
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  🎓 <em>Deep Learning Specialization</em> • <em>Machine Learning Specialization</em> • <em>AWS Cloud Practitioner Essentials</em>
+  🎓 <em>Microdegree™ in Artificial Intelligence</em> • <em>Deep Learning Specialization</em> • <em>Machine Learning Specialization</em> • <em>AWS Cloud Practitioner Essentials</em>
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <a href="[https://www.facebook.com/amir.bhattarai.37](https://www.facebook.com/ameer.bhattarai.5/)">
+  <a href="https://www.facebook.com/ameer.bhattarai.5">
     <img src="https://img.icons8.com/color/48/facebook.png" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.instagram.com/__abstrato__](https://www.instagram.com/__abstrato__/)">
+  <a href="https://www.instagram.com/__abstrato__/">
     <img src="https://img.icons8.com/color/48/instagram-new.png" height="40" />
   </a>
   &nbsp;&nbsp;
