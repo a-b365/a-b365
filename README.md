@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />&nbsp;&nbsp;
 </p>
 
-<p align="center" style="margin-top: 10px;">
+<p align="center" style="margin-top: 10px; font-family: myFirstFont; src: url(sansation_bold.woff)">
   <!-- Right: Interests, skills, certifications, social -->
   🔬 <em>Research</em> &nbsp;&nbsp;|&nbsp;&nbsp;
   🏥 <em>Medical Imaging</em> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -36,7 +36,7 @@
   🎮 <em>Gaming</em>
 </p>
 
-<p align="center" style="margin-top: 10px;">
+<p align="center" style="margin-top: 10px; font-family: myFirstFont; src: url(sansation_bold.woff)">
   🎓 <em>Microdegree™ in Artificial Intelligence</em> • <em>Deep Learning Specialization</em> • <em>Machine Learning Specialization</em> • <em>AWS Cloud Practitioner Essentials</em>
 </p>
 
@@ -44,11 +44,9 @@
   <a href="https://www.facebook.com/ameer.bhattarai.5">
     <img src="https://img.icons8.com/color/48/facebook.png" height="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/__abstrato__/">
     <img src="https://img.icons8.com/color/48/instagram-new.png" height="40" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://np.linkedin.com/in/amir-bhattarai-1170511ab">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" />
   </a>
