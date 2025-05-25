@@ -25,19 +25,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />&nbsp;&nbsp;
 </p>
 
-<p align="center" style="margin-top: 10px; font-family: myFirstFont; src: url(sansation_bold.woff)">
+<p align="center" style="margin-top: 10px;">
   <!-- Right: Interests, skills, certifications, social -->
-  🔬 <em>Research</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏥 <em>Medical Imaging</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤝 <em>Teamwork</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🌟 <em>Active Listening</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  💬 <em>Communication</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  📸 <em>Photography</em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎮 <em>Gaming</em>
+  🔬 <em><strong>Research</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏥 <em><strong>Medical Imaging</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤝 <em><strong>Teamwork</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌟 <em><strong>Active Listening</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💬 <em><strong>Communication</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📸 <em><strong>Photography</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎮 <em><strong>Gaming</strong></em>
 </p>
 
-<p align="center" style="margin-top: 10px; font-family: myFirstFont; src: url(sansation_bold.woff)">
-  🎓 <em>Microdegree™ in Artificial Intelligence</em> • <em>Deep Learning Specialization</em> • <em>Machine Learning Specialization</em> • <em>AWS Cloud Practitioner Essentials</em>
+<p align="center" style="margin-top: 10px;">
+  🎓 <em><strong>Microdegree™ in Artificial Intelligence</strong></em> • <em><strong>Deep Learning Specialization</strong></em> • <em><strong>Machine Learning Specialization</strong></em> • <em><strong>AWS Cloud Practitioner Essentials</strong></em>
 </p>
 
 <p align="center" style="margin-top: 10px;">
