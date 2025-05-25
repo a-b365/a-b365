@@ -27,17 +27,17 @@
 
 <p align="center" style="margin-top: 10px;">
   <!-- Right: Interests, skills, certifications, social -->
-  🔬 <em><strong>Research</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏥 <em><strong>Medical Imaging</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤝 <em><strong>Teamwork</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🌟 <em><strong>Active Listening</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  💬 <em><strong>Communication</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  📸 <em><strong>Photography</strong></em> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎮 <em><strong>Gaming</strong></em>
+  🔬 <strong>Research</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏥 <strong>Medical Imaging</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤝 <strong>Teamwork</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌟 <strong>Active Listening</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💬 <strong>Communication</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📸 <strong>Photography</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎮 <strong>FIFA</strong>
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  🎓 <em><strong>Microdegree™ in Artificial Intelligence</strong></em> • <em><strong>Deep Learning Specialization</strong></em> • <em><strong>Machine Learning Specialization</strong></em> • <em><strong>AWS Cloud Practitioner Essentials</strong></em>
+  🎓 <strong>Microdegree™ in Artificial Intelligence</strong> • <strong>Deep Learning Specialization</strong> • <strong>Machine Learning Specialization</strong> • <strong>AWS Cloud Practitioner Essentials</strong>
 </p>
 
 <p align="center" style="margin-top: 10px;">
