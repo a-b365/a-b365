@@ -1,6 +1,6 @@
 <!-- Typing Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Generative+AI;Exploring+Medical+Image+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Generative+AI;Exploring+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
 <!-- Wave SVG Background -->
