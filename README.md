@@ -1,103 +1,98 @@
-### 👋 Hello, world! I'm Amir Bhattarai (@a-b365)
+<h1 align="center">👋 Hi, I'm Amir Bhattarai (@a-b365)</h1>
 
-I'm a passionate **AI researcher** with a strong inclination toward **Computer Vision** 🧠 and **Generative AI** 🎨. Currently, I'm diving deep into **Medical Image Analysis** 🩻, where I explore the intersection of deep learning and healthcare to solve real-world challenges.
-
----
-
-### 🔭 What I'm Working On
-
-- 🧠 Medical Image Analysis using classical and deep learning techniques  
-- 🔀 Multi-modal data integration for predictive modeling  
-- 🧪 Building digital twin models for healthcare research  
-- 📚 Writing a research paper on AI-driven simulation and modeling
+<p align="center">
+  🧠 AI Researcher • 🎨 Generative AI • 🖼️ Computer Vision • 🩻 Medical Image Analysis
+</p>
 
 ---
 
-### 💡 Interests
-
-- 🖼️ Computer Vision • 🎨 Generative AI • 🗣️ NLP  
-- 🧬 Digital Twins • 🔍 Trustworthy AI • 💬 Explainable AI  
-- 🌍 Applied Research in Healthcare & Environmental Science  
+### 🧠 Interests
+<p align="center">
+  🧠 🎨 🖼️ 🗣️ 🧬 🔍 💬 🌍
+</p>
 
 ---
 
-### 🤝 Let's Collaborate!
-
-I'm actively looking to **collaborate on Deep Learning research projects**, particularly those that focus on **medical imaging**, **explainability**, or **multi-modal AI systems**. If that sounds like your vibe, let’s connect!
+### 🔭 Current Focus
+<p align="center">
+  🩻 📊 🧪 📚
+</p>
 
 ---
 
 ### 🧰 Tech Stack
 
-**💻 Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+#### 💻 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
-**📊 Data Analytics & Visualization**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-46a2f1?style=flat&logo=python&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+#### 📊 Visualization & Data
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40"/>
+</p>
 
-**🔍 Data Mining Tools**  
-🟧 Orange • 🟦 Weka
+#### 🤖 ML & DL
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
+</p>
 
-**🤖 Machine Learning & Deep Learning**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+#### 🖼️ CV & Image Processing
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/ios/50/image--v1.png" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/fluency/48/image.png" height="40"/>
+</p>
 
-**🖼️ Image Processing & Computer Vision**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-📷 Pillow • 🧪 Scikit-Image
+#### 🗣️ NLP
+<p align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/fluency/48/language.png" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/ios/50/translation.png" height="40"/>
+</p>
 
-**🗣️ Natural Language Processing**  
-📚 NLTK • 🔎 spaCy  
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+#### 🌐 Web & DB
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/streamlit.png" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
-**🌐 Web Frameworks**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**🛢️ Database Systems**  
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**🔧 Version Control**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 🧠 Transferable Skills
-
-🗣️ Verbal Communication • 👂 Active Listening • 🚀 Initiative  
-🧠 Analytical Thinking • 🧩 Problem-Solving • 🤝 Teamwork  
-🧭 Leadership • 🧮 Multitasking • 🤝 Collaboration
-
----
-
-### 📜 Certifications
-
-- 🧠 Deep Learning Specialization — *Coursera (Andrew Ng)*  
-- 🤖 Machine Learning Specialization — *Coursera*  
-- ☁️ AWS Cloud Practitioner Essentials — *Coursera*
+#### 🔧 Tools & Version Control
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ---
 
-### 🌐 Reach Me
-
-- 📫 Facebook: [Amir Bhattarai](https://www.facebook.com/amir.bhattarai.37)  
-- 📸 Instagram: [__abstrato__](https://www.instagram.com/__abstrato__)
+### 🧠 Soft Skills
+<p align="center">
+  🗣️ 👂 🚀 🧠 🧩 🤝 🧭 🧮 
+</p>
 
 ---
 
-### 🎯 Fun Facts
+### 🏆 Certifications
+<p align="center">
+  🧠 Deep Learning (Coursera) &nbsp; | &nbsp; 🤖 ML Specialization (Coursera) &nbsp; | &nbsp; ☁️ AWS Cloud Essentials
+</p>
 
-- ✍️ I blog about AI, tech, and personal development  
-- 🤝 I love volunteering and mentoring aspiring AI learners  
-- 🎮 Gamer by night, researcher by day  
-- 📷 Amateur photographer capturing untold frames of life
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.facebook.com/amir.bhattarai.37">
+    <img src="https://img.icons8.com/color/48/facebook.png" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/__abstrato__">
+    <img src="https://img.icons8.com
