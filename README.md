@@ -1,6 +1,6 @@
 <!-- Typing Animated Header (Static Fallback) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F79500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amir+Bhattarai!;AI+Researcher+%7C+Computer+Vision+%7C+Generative+AI;" alt="Typing SVG" />
 </p>
 
 <!-- Simple Wave Divider (Optional, remove if it doesn't render well) -->
@@ -13,10 +13,10 @@
   <strong>AI Researcher</strong> | <strong>Generative AI</strong> | <strong>Computer Vision</strong>
 </p>
 
-<!-- Tech Stack & Info Section: Markdown Table (More Reliable Than HTML Tables) -->
+<!-- Tech Stack, About Me, and GitHub Stats in a Table -->
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       
 **Tech Stack**
 
@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       
 **About Me**
 
@@ -60,16 +60,13 @@
 [<img src="https://img.icons8.com/color/48/instagram-new.png" height="30"/>](https://www.instagram.com/__abstrato__)
 
     </td>
+    <td align="center" width="33%">
+      
+**GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=a-b365&show_icons=true&theme=radical" height="150"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-b365&theme=radical&hide_border=true" height="100"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-b365&layout=compact&theme=radical&hide_border=true" height="100"/>
+    </td>
   </tr>
 </table>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-b365&show_icons=true&theme=radical" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=a-b365&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-b365&layout=compact&theme=radical&hide_border=true" height="150
-
