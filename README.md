@@ -11,57 +11,65 @@
   <strong>AI Researcher</strong> | <strong>Generative AI</strong> | <strong>Computer Vision</strong>
 </p>
 
-<!-- Interests and Skills -->
-<p align="center">
-  <em>Research</em> • <em>Medical Imaging</em> • <em>CT Scan Analysis</em> • <em>Communication</em> • <em>Teamwork</em> • <em>Leadership</em> • <em>Volunteering</em> • <em>Photography</em> • <em>Gaming</em>
-</p>
+<!-- Horizontal Layout with Table -->
+<table width="100%">
+  <tr>
+    <!-- Left Side: Tech Stack -->
+    <td align="center" width="50%">
 
-<!-- Tech Stack Icons -->
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+      <!-- Tech Stack Icons -->
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+        <br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+        <br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/streamlit.png" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
+        <br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+      </p>
+    </td>
 
-  <!-- Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+    <!-- Right Side: Info Section -->
+    <td align="center" width="50%">
+      <p>
+        <em>Research</em> • <em>Medical Imaging</em> • <em>CT Scan Analysis</em><br/>
+        <em>Teamwork</em> • <em>Leadership</em> • <em>Volunteering</em><br/>
+        <em>Photography</em> • <em>Gaming</em> • <em>Communication</em>
+      </p>
 
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/streamlit.png" height="40"/>
+      <p>
+        <em>Deep Learning Specialization</em><br/>
+        <em>Machine Learning Specialization</em><br/>
+        <em>AWS Cloud Practitioner Essentials</em>
+      </p>
 
-  <!-- Data Viz -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
-<!-- Certifications -->
-<p align="center">
-  <em>Deep Learning Specialization</em> • <em>Machine Learning Specialization</em> • <em>AWS Cloud Practitioner Essentials</em>
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.facebook.com/amir.bhattarai.37">
-    <img src="https://img.icons8.com/color/48/facebook.png" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/__abstrato__">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" height="40"/>
-  </a>
-</p>
+      <!-- Social Links -->
+      <p>
+        <a href="https://www.facebook.com/amir.bhattarai.37">
+          <img src="https://img.icons8.com/color/48/facebook.png" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://www.instagram.com/__abstrato__">
+          <img src="https://img.icons8.com/color/48/instagram-new.png" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 <p align="center">
