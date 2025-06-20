@@ -8,7 +8,7 @@
 
 <!-- Tagline -->
 <p align="center">
-  <strong>AI Researcher</strong> | <strong>Gen AI</strong> | <strong>Computer Vision</strong>
+  <strong>AI Research</strong> | <strong>Gen AI</strong> | <strong>Computer Vision</strong>
 </p>
 
 <!-- Horizontal "sections" side by side using emojis as visual separators -->
